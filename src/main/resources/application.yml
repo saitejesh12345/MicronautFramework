@@ -1,0 +1,4 @@
+#Mon Sep 25 05:28:38 GMT 2023
+micronaut:
+  server:
+    port: 8081
